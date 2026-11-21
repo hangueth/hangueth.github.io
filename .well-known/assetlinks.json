@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.hangueth.cantemus",
+    "sha256_cert_fingerprints": ["88:68:23:71:83:8E:80:BD:1A:1D:AC:95:F7:AB:81:61:3C:41:BA:31:58:02:B9:40:1E:A7:0B:CE:4A:E8:D5:FA"]
+  }
+}]
